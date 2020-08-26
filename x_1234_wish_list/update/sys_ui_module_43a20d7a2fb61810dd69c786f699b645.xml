@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Wish List">4ba20d7a2fb61810dd69c786f699b642</application>
+        <filter/>
+        <name>URLs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles/>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-26 17:56:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>43a20d7a2fb61810dd69c786f699b645</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>URLs</sys_name>
+        <sys_package display_value="Wish List" source="x_1234_wish_list">5806cb262f721810dd69c786f699b694</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">5806cb262f721810dd69c786f699b694</sys_scope>
+        <sys_update_name>sys_ui_module_43a20d7a2fb61810dd69c786f699b645</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-26 17:56:53</sys_updated_on>
+        <table>x_1234_wish_list_url</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
